@@ -1,0 +1,29 @@
+{
+  "name": "lestyle-journal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "dev": "wp-scripts start",
+    "devFast": "wp-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wordpress/element": "^6.8.0",
+    "@wordpress/scripts": "*",
+    "debounce": "^1.2.1",
+    "normalize.css": "^8.0.1",
+    "swiper": "^11.1.4",
+    "toml": "^3.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "3.4.3",
+    "vue-loader": "17.4.2",
+    "vue-template-compiler": "2.7.16"
+  }
+}

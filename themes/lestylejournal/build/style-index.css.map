@@ -1,0 +1,1 @@
+{"version":3,"file":"./style-index.css","mappings":";;;AAGA;EACE;EACA;AADF,C","sources":["webpack://lestyle-journal/./css/style.scss"],"sourcesContent":["@import 'swiper/swiper-bundle.css';\n\n\n.wp-block-column.is-style-custom-padding {\n  padding-right: 200px; \n  background: blue;\n}"],"names":[],"sourceRoot":""}

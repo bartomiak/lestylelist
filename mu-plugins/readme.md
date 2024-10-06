@@ -1,0 +1,1 @@
+Directory for `must used plugins` - in this directory you can keep plugins that will work event if you change theme
