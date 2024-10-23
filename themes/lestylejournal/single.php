@@ -22,8 +22,10 @@ while (have_posts()) {
             }
             ?>
         </div>
-        <?php get_template_part('what-to-wear'); ?>
-    <?php
+        <div class="my-24">
+            <?php get_template_part('what-to-wear'); ?>
+        </div>
+        <?php
     } else {
         // THIS IS STRUCTURE FOR POST WITHOUT vertical-gallery GUTENBERG BLOCK
         ?>
@@ -47,7 +49,7 @@ while (have_posts()) {
                 ?>
             </div>
         </div>
-        <div class="my-12">
+        <div class="my-24">
             <?php get_template_part('what-to-wear'); ?>
         </div>
         <?php
